@@ -11,7 +11,7 @@ header {
   font-weight: normal;
   font-size: 26px;
 }
-header h6 {
+h6 {
   color: aquamarine;
   font-size: 14px;
 }
@@ -22,4 +22,9 @@ main h1 {
 main p {
   font-size: 21px;
   color: gray;
+}
+footer h1 {
+  text-align: right;
+  color: gray;
+  font-size: 12px;
 }
